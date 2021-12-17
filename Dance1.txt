@@ -2,4 +2,5 @@ Step Right
 Step Left
 Jump Up
 Jump Down
+Twirl your hands
 Do the rainbow dance !!
