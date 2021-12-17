@@ -1,0 +1,5 @@
+Step Right
+Step Left
+Jump Up
+Jump Down
+Do the rainbow dance !!
